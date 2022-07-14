@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2022-07-14T19:41:17.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44" version="20.1.1" etag="Qh6OQu0ZleFmGgwCqxUR" type="github">
+  <diagram id="e_rSFUaQG8-T2oBvHyfT">
+    <mxGraphModel dx="1422" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object label="Cloud" source="hashicorp/azurerm" version="=3.0.0" provider="azurerm" subscription_id="ae5613de-f49e-47e9-afa0-54dae3dbb045" client_id="b58913bd-12a8-4720-a540-74f0f6a600e8" client_secret="HiZ8Q~yHloDRjBSPEmmqKUqh3Z3cyH~s4fODUbAf" tenant_id="5b21e8fd-f562-4c52-9054-1a5c38b33db8" id="2">
+          <mxCell style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_subscription;" vertex="1" parent="1">
+            <mxGeometry x="10" width="50" height="35" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Resource Group" name="euclid" location="eastus" id="3">
+          <mxCell style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#919191;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="1">
+            <mxGeometry x="130" y="70" width="200" height="200" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
