@@ -1,1 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T18:07:23.528Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44" etag="QqkUyIC-dhmcly1kPgks" version="20.1.1" type="github"><diagram id="L9XY9eHc0Pdkd4qlfGk9" name="Page-1">ddHBDsIgDADQr+HOYCZ6nlMvnnbwTEYdJGxdGGbo17sF5iTThEN5LZQUwovWn63o1RUlGMKo9IQfCWNZzhiZF5XPIIcsD9BYLWPRCpV+QUQa9aElDEmhQzRO9ynW2HVQu8SEtTimZXc0addeNLCBqhZmqzctnQq639HVL6AbtXTOaMy0YimOMCghcfwiXhJeWEQXotYXYObhLXMJ505/sp+HWejcjwNTsN49bZIf4uUb</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-14T18:14:55.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44" etag="_bAv-pzvqBb43cOu-2RL" version="20.1.1" type="github">
+  <diagram id="L9XY9eHc0Pdkd4qlfGk9" name="Page-1">
+    <mxGraphModel dx="1422" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object label="" placeholders="1" source="hashicorp/azurerm" version="=3.0.0" provider="azurerm" subscription_id="ae5613de-f49e-47e9-afa0-54dae3dbb045" client_id="b58913bd-12a8-4720-a540-74f0f6a600e8" client_secret="HiZ8Q~yHloDRjBSPEmmqKUqh3Z3cyH~s4fODUbAf" tenant_id="5b21e8fd-f562-4c52-9054-1a5c38b33db8" id="i9LN_aRxEqHqEClvttTP-1">
+          <mxCell style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_subscription;" vertex="1" parent="1">
+            <mxGeometry x="10" width="50" height="35" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
