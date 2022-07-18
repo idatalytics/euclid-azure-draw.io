@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net" modified="2022-07-18T01:48:41.219Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" version="20.1.1" etag="wx_5Y-47thRIGBsTJ3sc" type="github">
-  <diagram id="pdiSKGbkLl6YkZLJ1KST">
+<mxfile host="app.diagrams.net" modified="2022-07-18T01:57:05.562Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" version="20.1.1" etag="72UPmVNg-fvI6YFHm6Rm" type="github">
+  <diagram id="DGFklrOO-mp_aPjwvxyT">
     <mxGraphModel dx="1422" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -15,7 +15,7 @@
             <mxGeometry x="130" y="70" width="200" height="200" as="geometry" />
           </mxCell>
         </object>
-        <object label="Resource Group" name="jenkins" location="eastus" resource="azurerm_resource_group" id="4">
+        <object label="Resource Group" name="trial-idata" location="eastus" resource="azurerm_resource_group" id="4">
           <mxCell style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#919191;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="1">
             <mxGeometry x="130" y="70" width="200" height="200" as="geometry" />
           </mxCell>
