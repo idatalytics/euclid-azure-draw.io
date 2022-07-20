@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net" modified="2022-07-18T19:48:07.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" version="20.1.1" etag="JhaVmRUkemj03eYQABJX" type="github">
-  <diagram id="7AWtUtPUBxVMEvJ0iGaz">
-    <mxGraphModel dx="1422" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-07-20T03:39:12.915Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" version="20.1.1" etag="XwqySgQ-04LUUPW8dibY" type="github">
+  <diagram id="jqLIa9oEZX7joIk1_y2v">
+    <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,7 +15,7 @@
             <mxGeometry x="130" y="70" width="200" height="200" as="geometry" />
           </mxCell>
         </object>
-        <object label="Resource Group" name="testing-afternoon" location="eastus" resource="azurerm_resource_group" id="4">
+        <object label="Resource Group" name="testing-offshore" location="eastus" resource="azurerm_resource_group" id="4">
           <mxCell style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#919191;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="1">
             <mxGeometry x="130" y="70" width="200" height="200" as="geometry" />
           </mxCell>
